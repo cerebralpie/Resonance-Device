@@ -1,0 +1,6 @@
+#ifndef CUSTOM_DELAY_H
+#define CUSTOM_DELAY_H
+
+const int CYCLES_PER_SEC = 5000000;
+
+#endif // CUSTOM_DELAY_H
