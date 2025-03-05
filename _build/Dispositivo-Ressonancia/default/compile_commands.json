@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/eduardo/MPLABXProjects/Dispositivo-Ressonancia.X/_build/Dispositivo-Ressonancia/default",
+  "command": "/opt/microchip/xc8/v3.00/bin/xc8-cc -DXPRJ_default=default -D__16F887__ -I/home/eduardo/MPLABXProjects/Dispositivo-Ressonancia.X/cmake/Dispositivo-Ressonancia/default/../../../include -I/home/eduardo/MPLABXProjects/Dispositivo-Ressonancia.X/cmake/Dispositivo-Ressonancia/default/../../.. -c -mcpu=16F887 -mdfp=/home/eduardo/.mchp_packs/Microchip/PIC16Fxxx_DFP/1.6.156/xc8 -fno-short-double -fno-short-float -O0 -fasmfile -maddrqual=ignore -mwarn=-3 -Wa,-a -msummary=-psect,-class,+mem,-hex,-file -ginhx32 -Wl,--data-init -mno-keep-startup -mno-osccal -moscval=0x3400 -mno-resetbits -mno-save-resetbits -mno-download -mno-stackcall -mno-default-config-bits -std=c99 -gdwarf-3 -mstack=compiled:auto:auto:auto -o CMakeFiles/Dispositivo_Ressonancia_default_default_XC8_compile.dir/home/eduardo/MPLABXProjects/Dispositivo-Ressonancia.X/src/main.c.p1 -c /home/eduardo/MPLABXProjects/Dispositivo-Ressonancia.X/src/main.c",
+  "file": "/home/eduardo/MPLABXProjects/Dispositivo-Ressonancia.X/src/main.c",
+  "output": "CMakeFiles/Dispositivo_Ressonancia_default_default_XC8_compile.dir/home/eduardo/MPLABXProjects/Dispositivo-Ressonancia.X/src/main.c.p1"
+}
+]

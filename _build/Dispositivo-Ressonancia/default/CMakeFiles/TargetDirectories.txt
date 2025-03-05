@@ -1,0 +1,4 @@
+/home/eduardo/MPLABXProjects/Dispositivo-Ressonancia.X/_build/Dispositivo-Ressonancia/default/CMakeFiles/Dispositivo_Ressonancia_default_default_XC8_compile.dir
+/home/eduardo/MPLABXProjects/Dispositivo-Ressonancia.X/_build/Dispositivo-Ressonancia/default/CMakeFiles/Dispositivo_Ressonancia_default_default.elf.dir
+/home/eduardo/MPLABXProjects/Dispositivo-Ressonancia.X/_build/Dispositivo-Ressonancia/default/CMakeFiles/edit_cache.dir
+/home/eduardo/MPLABXProjects/Dispositivo-Ressonancia.X/_build/Dispositivo-Ressonancia/default/CMakeFiles/rebuild_cache.dir

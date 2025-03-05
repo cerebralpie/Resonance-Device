@@ -24,10 +24,17 @@
 // #pragma config statements should precede project file includes.
 // Use project enums instead of #define for ON and OFF.
 
+#include <xc.h>
+#include <stdint.h>
+
 #define _XTAL_FREQ 20000000
 #define I2C_BAUD_RATE 100000 // Define I2C baud rate
 
-#include <xc.h>
+void I2C_Initialize();
+void I2C_Start();
+void I2C_Stop();
+void I2C_Write(uint8_t data);
+void initSystem();
 
 // Configure PWM for flat audio output
 
